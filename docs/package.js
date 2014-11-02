@@ -185,7 +185,7 @@
     },
     "pixie.cson": {
       "path": "pixie.cson",
-      "content": "entryPoint: \"lib/styl\"\nversion: \"0.2.8\"\n",
+      "content": "entryPoint: \"lib/styl\"\nversion: \"0.2.8-pre.0\"\n",
       "mode": "100644"
     },
     "test/test.coffee": {
@@ -202,7 +202,7 @@
     },
     "pixie": {
       "path": "pixie",
-      "content": "module.exports = {\"entryPoint\":\"lib/styl\",\"version\":\"0.2.8\"};",
+      "content": "module.exports = {\"entryPoint\":\"lib/styl\",\"version\":\"0.2.8-pre.0\"};",
       "type": "blob"
     },
     "test/test": {
@@ -214,7 +214,7 @@
   "progenitor": {
     "url": "http://www.danielx.net/editor/"
   },
-  "version": "0.2.8",
+  "version": "0.2.8-pre.0",
   "entryPoint": "lib/styl",
   "repository": {
     "branch": "master",
