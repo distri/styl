@@ -19,7 +19,7 @@ window["distri/styl:master"]({
     },
     "pixie.cson": {
       "path": "pixie.cson",
-      "content": "entryPoint: \"lib/styl\"\nversion: \"0.2.8-pre.0\"\n",
+      "content": "entryPoint: \"lib/styl\"\nversion: \"0.2.8\"\n",
       "mode": "100644"
     },
     "test/test.coffee": {
@@ -36,7 +36,7 @@ window["distri/styl:master"]({
     },
     "pixie": {
       "path": "pixie",
-      "content": "module.exports = {\"entryPoint\":\"lib/styl\",\"version\":\"0.2.8-pre.0\"};",
+      "content": "module.exports = {\"entryPoint\":\"lib/styl\",\"version\":\"0.2.8\"};",
       "type": "blob"
     },
     "test/test": {
@@ -48,7 +48,7 @@ window["distri/styl:master"]({
   "progenitor": {
     "url": "http://www.danielx.net/editor/"
   },
-  "version": "0.2.8-pre.0",
+  "version": "0.2.8",
   "entryPoint": "lib/styl",
   "repository": {
     "branch": "master",
